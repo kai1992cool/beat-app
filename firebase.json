@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "check-in/dist/check-in/browser",  // Correct build output folder after running 'ng build'
+    "public": "check-in/dist/check-in/browser", 
     "ignore": [
       "firebase.json",
       "**/.*",
